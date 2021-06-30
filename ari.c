@@ -1,3 +1,8 @@
+#include <stdio.h>
+#include <cs50.h>
+#include <ctype.h>
+#include <string.h>
+
 int main(void){
  string s,grade_level;
  float count_words=0,count_char=0,count_sentence=0;
